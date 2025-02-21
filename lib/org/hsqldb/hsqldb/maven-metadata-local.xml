@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.hsqldb</groupId>
+  <artifactId>hsqldb</artifactId>
+  <versioning>
+    <release>2.7.4-fixed</release>
+    <versions>
+      <version>2.5.0-fixed</version>
+      <version>2.7.4-fixed</version>
+    </versions>
+    <lastUpdated>20250221184532</lastUpdated>
+  </versioning>
+</metadata>
